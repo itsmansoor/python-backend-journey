@@ -6,18 +6,27 @@ A structured journey of learning Python for backend development.
 This repository contains my learning path in Python, focusing on building a strong foundation for backend development.
 
 ## 🧠 Topics Covered
-- Strings in Python
-- Lists and List Methods
-- Tuples
-- Sets
-- Basic Python Concepts and Examples
+- Strings (immutability, methods)
+- Lists (methods like append, extend, etc.)
+- Tuples (immutable collections)
+- Sets (unique and unordered data)
+- Dictionaries (key-value pairs)
+- Operators (arithmetic, logical, comparison, etc.)
+- Number System (binary, octal, hexadecimal)
 
 ## 🎯 Goal
-To become a backend developer using Python and build real-world projects in the future.
+To become a backend developer using Python and build real-world applications.
 
-## 💡 Purpose
-This repo helps me practice coding and document my learning journey step by step.
+## 💡 What I'm Doing
+- Learning core Python concepts  
+- Practicing with examples  
+- Preparing for backend development  
+
+## 🚀 Future Plans
+- Learn Django / Flask  
+- Build backend APIs  
+- Work with databases  
 
 ---
 
-⭐ Feel free to explore and follow my progress!
+⭐ Feel free to explore and follow my journey!

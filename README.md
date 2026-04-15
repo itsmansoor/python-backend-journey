@@ -15,6 +15,9 @@ This repository contains my learning path in Python, focusing on building a stro
 - Number System (binary, octal, hexadecimal)
 - Input Handling (taking user input, type casting with int/float)
 - Math Module (basic functions like sqrt, ceil, floor, pow)
+- Conditional Statements (if, elif, else, nested conditions)
+- Loops (while and for loops for iteration)
+- Control Flow (break, continue, pass statements)
 
 
 ## 🎯 Goal

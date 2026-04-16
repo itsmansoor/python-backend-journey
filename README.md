@@ -18,6 +18,7 @@ This repository contains my learning path in Python, focusing on building a stro
 - Conditional Statements (if, elif, else, nested conditions)
 - Loops (while and for loops for iteration)
 - Control Flow (break, continue, pass statements)
+-  Arrays (user input, storing elements, searching indexes)
 
 
 ## 🎯 Goal

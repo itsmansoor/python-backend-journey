@@ -20,6 +20,8 @@ This repository contains my learning path in Python, focusing on building a stro
 - Control Flow (break, continue, pass statements)
 - Arrays (user input, storing elements, searching indexes)
 - NumPy (array operations and numerical computations)
+- Functions (definition, parameters, return values, default parameters, keyword arguments, *args, **kwargs)
+- Variables Scope (local and global variables, use of global keyword)
 
 
 ## 🎯 Goal

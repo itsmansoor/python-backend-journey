@@ -22,6 +22,11 @@ This repository contains my learning path in Python, focusing on building a stro
 - NumPy (array operations and numerical computations)
 - Functions (definition, parameters, return values, default parameters, keyword arguments, *args, **kwargs)
 - Variables Scope (local and global variables, use of global keyword)
+- Recursion (functions calling themselves for solving problems like factorial and fibonacci)
+- Lambda Functions (anonymous functions for concise operations)
+- Functional Programming (map, filter, reduce for data processing)
+- Modules (code reusability using Python modules)
+- Special Variables (__name__ variable for controlling execution flow)
 
 
 ## 🎯 Goal

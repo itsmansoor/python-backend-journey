@@ -27,6 +27,11 @@ This repository contains my learning path in Python, focusing on building a stro
 - Functional Programming (map, filter, reduce for data processing)
 - Modules (code reusability using Python modules)
 - Special Variables (__name__ variable for controlling execution flow)
+- Object-Oriented Programming (basic concepts of OOP in Python)
+- Classes & Objects (defining classes and creating objects)
+- Constructor (__init__ method for initialization and use of self keyword)
+- Types of Variables (instance and class variables)
+- Types of Methods (instance methods, class methods, static methods)
 
 
 ## 🎯 Goal

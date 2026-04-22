@@ -32,7 +32,9 @@ This repository contains my learning path in Python, focusing on building a stro
 - Constructor (__init__ method for initialization and use of self keyword)
 - Types of Variables (instance and class variables)
 - Types of Methods (instance methods, class methods, static methods)
-
+- Inheritance (single, multiple, multilevel inheritance)
+- Constructor in Inheritance (using parent and child constructors)
+- super() Method (calling parent class methods and constructor)
 
 ## 🎯 Goal
 To become a backend developer using Python and build real-world applications.

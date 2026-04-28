@@ -35,6 +35,8 @@ This repository contains my learning path in Python, focusing on building a stro
 - Inheritance (single, multiple, multilevel inheritance)
 - Constructor in Inheritance (using parent and child constructors)
 - super() Method (calling parent class methods and constructor)
+- Exception Handling (try, except, else, finally, and custom exceptions)
+- File Handling (reading, writing, appending, and file operations)
 
 ## 🎯 Goal
 To become a backend developer using Python and build real-world applications.

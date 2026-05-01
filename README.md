@@ -37,6 +37,9 @@ This repository contains my learning path in Python, focusing on building a stro
 - super() Method (calling parent class methods and constructor)
 - Exception Handling (try, except, else, finally, and custom exceptions)
 - File Handling (reading, writing, appending, and file operations)
+- MySQL Integration (connecting Python with MySQL,Cursor Operations(executing queries, fetching data),Database Queries (SELECT, INSERT using Python))
+  
+
 
 ## 🎯 Goal
 To become a backend developer using Python and build real-world applications.

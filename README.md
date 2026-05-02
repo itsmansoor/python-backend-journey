@@ -51,7 +51,7 @@ To become a backend developer using Python and build real-world applications.
 - Preparing for backend development  
 
 ## 🚀 Future Plans
-- Learn Django / Flask  
+- Learn Django / Fast API
 - Build backend APIs  
 - Work with databases  
 

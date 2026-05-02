@@ -38,6 +38,7 @@ This repository contains my learning path in Python, focusing on building a stro
 - Exception Handling (try, except, else, finally, and custom exceptions)
 - File Handling (reading, writing, appending, and file operations)
 - MySQL Integration (connecting Python with MySQL,Cursor Operations(executing queries, fetching data),Database Queries (SELECT, INSERT using Python))
+- Socket Programming (client-server communication using Python sockets)
   
 
 
